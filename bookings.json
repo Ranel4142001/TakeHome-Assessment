@@ -8,5 +8,15 @@
     "to_date": "2026-01-15",
     "total": 9000.0,
     "status": "confirmed"
+  },
+  {
+    "id": 2,
+    "equipment_id": 1,
+    "equipment_name": "Canon DSLR Camera",
+    "customer": "Ranel Dahil",
+    "from_date": "2026-01-05",
+    "to_date": "2026-07-12",
+    "total": 282000.0,
+    "status": "confirmed"
   }
 ]
